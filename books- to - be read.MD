@@ -22,13 +22,17 @@ https://github.com/henryhu712/technote/tree/master/98.books/Think.Like.a.Rocket.
 - 《普通人的财富自由之道》，亚马逊714人打分4.8，几乎满分。
 https://github.com/henryhu712/technote/blob/master/98.books/The-Common-Path-to-Uncommon-Success/The%20Common%20Path%20to%20Uncommon%20Success(2021).epub
 https://readingoutpost.com/common-path/
+- 《人本体制》 強烈推介這本書，這才是新時代需要的組織結構。
+-
 - 《如何碌碌无为》 HOW TO DO NOTHING
 說起了無為，我就想到這本書。這算是新時代的無為，提出很多現代人該有的反思。我非常推薦
 
 - <OKR 做最重要的事情> 這本書實在太有名了，所以我買來讀讀看。
-
-
-
+- 《让部属甘心跟着你》儘管中文版書名很俗氣，但這是一本好書。
+- 《启示录：怎样打造用户喜爱的科技产品》，亚马逊上高达3914人打分4.6。本书讲了几个方面：
+https://github.com/henryhu712/technote/tree/master/98.books/Inspired
+- 《从优秀到卓越》，亚马逊6万人打出了4.5高分，推荐给创业的同学们看看。其中的案例读起来也挺有意思，很多观点是不合常理的。
+- 
 -- 影视剧：
 普通人学习理解内地法律必看的电视剧，排名有先后顺序：《大明王朝1566》《黑洞》《征服》《人民的名义》《狂飙》。
 
