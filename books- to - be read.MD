@@ -17,6 +17,11 @@ https://github.com/henryhu712/technote/blob/master/98.books/Clean.Code/Clean.Cod
 - 《纳瓦尔宝典》，亚马逊上1万2千多人打分4.7。本书在国内也是热门书籍了。
 https://github.com/henryhu712/technote/tree/master/98.books/Naval.Ravikant
 
+- 《像火箭科学家一样思考》，亚马逊上1673人打出4.6的高分。
+https://github.com/henryhu712/technote/tree/master/98.books/Think.Like.a.Rocket.Scientist
+- 《普通人的财富自由之道》，亚马逊714人打分4.8，几乎满分。
+https://github.com/henryhu712/technote/blob/master/98.books/The-Common-Path-to-Uncommon-Success/The%20Common%20Path%20to%20Uncommon%20Success(2021).epub
+https://readingoutpost.com/common-path/
 - 《如何碌碌无为》 HOW TO DO NOTHING
 說起了無為，我就想到這本書。這算是新時代的無為，提出很多現代人該有的反思。我非常推薦
 
