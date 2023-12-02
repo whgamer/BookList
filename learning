@@ -1,0 +1,6 @@
+- route add -p 192.168.51.0 mask 255.255.255.0 172.16.10.1
+添加 windows router table ,
+destination_network subnet  mask(optional ) and    netgate
+- route print
+- route delete 
+delete destination_network
